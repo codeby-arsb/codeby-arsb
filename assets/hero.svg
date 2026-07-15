@@ -1,28 +1,15 @@
-<svg width="800" height="250" viewBox="0 0 800 250" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; letter-spacing: 6px; fill: #1f2328; }
-    .subtitle { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 400; letter-spacing: 2px; fill: #656d76; }
-    .accent { stroke: #d0d7de; stroke-width: 1; }
-    .dot { fill: #1f2328; }
+    .name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; letter-spacing: 4px; fill: #1f2328; }
+    .line { stroke: #d0d7de; stroke-width: 1; stroke-dasharray: 2 4; }
     
     @media (prefers-color-scheme: dark) {
-      .title { fill: #e6edf3; }
-      .subtitle { fill: #7d8590; }
-      .accent { stroke: #30363d; }
-      .dot { fill: #e6edf3; }
+      .name { fill: #8b949e; }
+      .line { stroke: #30363d; }
     }
   </style>
   
-  <!-- Minimalist Camera Viewfinder Framing -->
-  <path d="M 50,50 L 50,30 L 70,30" fill="none" class="accent" />
-  <path d="M 750,50 L 750,30 L 730,30" fill="none" class="accent" />
-  <path d="M 50,200 L 50,220 L 70,220" fill="none" class="accent" />
-  <path d="M 750,200 L 750,220 L 730,220" fill="none" class="accent" />
-  
-  <!-- Center focal point -->
-  <circle cx="400" cy="125" r="1.5" class="dot" />
-
-  <!-- Typography -->
-  <text x="400" y="115" text-anchor="middle" class="title">AKASH RAM S B</text>
-  <text x="400" y="145" text-anchor="middle" class="subtitle">CREATIVE TECHNOLOGIST</text>
+  <line x1="100" y1="100" x2="330" y2="100" class="line" />
+  <text x="400" y="104" text-anchor="middle" class="name">AKASH RAM S B</text>
+  <line x1="470" y1="100" x2="700" y2="100" class="line" />
 </svg>
