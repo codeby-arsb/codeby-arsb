@@ -77,11 +77,11 @@
   <p>If you want to talk about building things that matter:</p>
   <br>
   <p>
-    <a href="https://linkedin.com/in/akashramsb" target="_blank" style="text-decoration: none;">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/akash-ram-s-b-arsb200042005/" target="_blank" style="text-decoration: none;">LinkedIn</a> 
     &nbsp;&nbsp;·&nbsp;&nbsp; 
-    <a href="#" target="_blank" style="text-decoration: none;">Portfolio</a> 
+    <a href="https://akashramsb.framer.media/" target="_blank" style="text-decoration: none;">Portfolio</a> 
     &nbsp;&nbsp;·&nbsp;&nbsp; 
-    <a href="mailto:akashramsb@example.com" style="text-decoration: none;">Email</a>
+    <a href="mailto:akashramsbofficial@gmail.com" style="text-decoration: none;">Email</a>
   </p>
 </div>
 
