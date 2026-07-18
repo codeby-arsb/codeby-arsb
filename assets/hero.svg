@@ -9,7 +9,7 @@
     }
   </style>
   
-  <line x1="100" y1="100" x2="330" y2="100" class="line" />
+  <line x1="200" y1="100" x2="330" y2="100" class="line" />
   <text x="400" y="104" text-anchor="middle" class="name">AKASH RAM S B</text>
-  <line x1="470" y1="100" x2="700" y2="100" class="line" />
+  <line x1="470" y1="100" x2="600" y2="100" class="line" />
 </svg>
