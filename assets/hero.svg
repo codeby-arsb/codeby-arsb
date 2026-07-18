@@ -1,6 +1,6 @@
 <svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .name { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 500; letter-spacing: 4px; fill: #1f2328; }
+    .name { font-family: "Redaction", "Times New Roman", Times, serif; font-size: 14px; font-weight: 500; letter-spacing: 4px; fill: #1f2328; }
     .line { stroke: #d0d7de; stroke-width: 1; stroke-dasharray: 2 4; }
     
     @media (prefers-color-scheme: dark) {
